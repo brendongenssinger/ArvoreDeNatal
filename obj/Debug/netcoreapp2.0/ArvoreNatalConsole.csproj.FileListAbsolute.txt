@@ -1,0 +1,11 @@
+/Users/brendongenssinger/ArvoreNatalConsole/bin/Debug/netcoreapp2.0/ArvoreNatalConsole.deps.json
+/Users/brendongenssinger/ArvoreNatalConsole/bin/Debug/netcoreapp2.0/ArvoreNatalConsole.runtimeconfig.json
+/Users/brendongenssinger/ArvoreNatalConsole/bin/Debug/netcoreapp2.0/ArvoreNatalConsole.runtimeconfig.dev.json
+/Users/brendongenssinger/ArvoreNatalConsole/bin/Debug/netcoreapp2.0/ArvoreNatalConsole.dll
+/Users/brendongenssinger/ArvoreNatalConsole/bin/Debug/netcoreapp2.0/ArvoreNatalConsole.pdb
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.csprojResolveAssemblyReference.cache
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.csproj.CoreCompileInputs.cache
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.AssemblyInfoInputs.cache
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.AssemblyInfo.cs
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.dll
+/Users/brendongenssinger/ArvoreNatalConsole/obj/Debug/netcoreapp2.0/ArvoreNatalConsole.pdb
